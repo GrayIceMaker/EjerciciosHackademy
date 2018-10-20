@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\bin\Debug\EjerciciosHackademy.exe.config
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\bin\Debug\EjerciciosHackademy.exe
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\bin\Debug\EjerciciosHackademy.pdb
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\obj\Debug\EjerciciosHackademy.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\obj\Debug\EjerciciosHackademy.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\obj\Debug\EjerciciosHackademy.exe
+C:\Users\danie\source\repos\EjerciciosHackademy\EjerciciosHackademy\obj\Debug\EjerciciosHackademy.pdb
